@@ -1,0 +1,7 @@
+__pycache__/
+TCA/TCA
+FastCA/FastCA
+AutoCCAG/MetaTCA/TCA
+AutoCCAG/tmp/
+*.o
+*.out
