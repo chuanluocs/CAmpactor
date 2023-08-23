@@ -2,6 +2,8 @@
 
 *CAmpactor* is a novel and effective local search algorithm for compacting given PCAs into smaller-sized ones. This repository includes the implementation of *CAmpactor*, the testing instances adopted in the experiments and the experimental results. 
 
+**Note**: the *CAmpactor* in this branch is the version at the time of paper submission. For the other version, which is submitted as the artifact for evaluation and also has some enhancement on usability, please check [this repository](https://github.com/zqy1018/CAmpactor-the-tool). 
+
 ## Instructions for Building *CAmpactor*
 
 ```
